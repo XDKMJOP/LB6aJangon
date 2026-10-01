@@ -1,0 +1,3 @@
+Model,Window,MAE,RMSE,Training Time (s)
+LSTM,24,0.3603,0.5175,22.5555
+LSTM,48,0.3672,0.5114,73.2318
